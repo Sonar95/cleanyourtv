@@ -1,0 +1,45 @@
+{
+  "columns": 4,
+  "dock_apps": [
+    "com.cultraview.newfilemanager",
+    "org.videolan.vlc",
+    "com.mediatek.androidbox",
+    "ru.sberdevices.starbrowser"
+  ],
+  "fill_dock": true,
+  "dock_row": true,
+  "single_row": true,
+  "dock_band_all": true,
+  "dock_even_padding": true,
+  "dock_title": true,
+  "rows_below_dock": 0,
+  "dock_glass": true,
+  "background_color": "#050505",
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 30,
+  "wallpaper_order": "shuffle",
+  "wallpaper_captions": true,
+  "wallpaper_dim": 20,
+  "app_library": true,
+  "library_ok_opens": true,
+  "live_tv_package": "com.mediatek.wwtv.tvcenter",
+  "hidden_apps": [
+    "ru.sberdevices.starlauncher",
+    "com.cybercat.adbappcontrol.tv",
+    "com.stb.factorymenu",
+    "mediatek.factorymenu.ui",
+    "com.ctv.newfactorytest",
+    "com.ctv.autotest.helper",
+    "ru.sberdevices.TvFactoryHelper",
+    "ru.sberdevices.assistant",
+    "ru.sberdevices.starcleaner",
+    "ru.sberdevices.openbeta"
+  ],
+  "library_excluded_apps": [
+    "com.stb.factorymenu",
+    "mediatek.factorymenu.ui",
+    "com.ctv.newfactorytest",
+    "com.ctv.autotest.helper",
+    "ru.sberdevices.TvFactoryHelper"
+  ]
+}

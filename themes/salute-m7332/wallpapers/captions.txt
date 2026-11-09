@@ -1,0 +1,21 @@
+# wallpaper_captions: the name shown under the top-right pills, as "<file><TAB><name>"
+01-dusk-peaks.jpg	Dusk peaks
+02-golden-coast.jpg	Golden coast
+03-moon-lake.jpg	Moon lake
+04-aurora.jpg	Aurora
+05-dunes.jpg	Dunes
+06-above-the-clouds.jpg	Above the clouds
+07-mirror-lake.jpg	Mirror lake
+08-tea-hills.jpg	Tea hills
+09-alpenglow.jpg	Alpenglow
+10-city-lights.jpg	City lights
+11-balloon-sunrise.jpg	Balloon sunrise
+12-monsoon.jpg	Monsoon
+13-lighthouse-coast.jpg	Lighthouse coast
+14-autumn-valley.jpg	Autumn valley
+nature-001.jpg	Misty karst valley at sunrise, Laos - Basile Morin, CC BY-SA 4.0
+nature-002.jpg	Autumn reflections, Loch Tummel, Scotland - Eric Kilby, CC BY-SA 4.0
+nature-003.jpg	Morning mist at Tham Sakoen, Thailand - BerryJ, CC BY-SA 4.0
+nature-004.jpg	Lake Mystery, New Zealand - Michal Klajban, CC BY-SA 4.0
+nature-005.jpg	Spring bluebell beech wood, Pryor's Wood UK - Colin, CC BY-SA 4.0
+nature-006.jpg	Autumn calm lake, Ossiacher See Austria - Johann Jaritz, CC BY-SA 4.0
